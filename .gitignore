@@ -56,6 +56,7 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
+sakshi
 nosetests.xml
 coverage.xml
 *.cover
